@@ -32,12 +32,12 @@ This repository contains the basic code for a simple React Native shopping app b
    ```
 7. **Scan the QR code:** Use the Expo Go app to scan the QR code displayed in your browser to run the app on your device.
 
-**Next Steps:**
+**Steps Taken:**
 
-- Add real product data.
-- Design the UI.
-- Implement a shopping cart.
-- Integrate a payment gateway.
+- Added real product data.
+- Designed the UI.
+- Implemented a shopping cart.
+
   
 ![IMG-20240712-WA0015](https://github.com/user-attachments/assets/744e0eec-7eb9-4f0a-8da9-88741a784d83)
 
